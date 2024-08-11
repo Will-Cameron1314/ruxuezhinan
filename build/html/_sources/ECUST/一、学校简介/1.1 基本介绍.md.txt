@@ -1,0 +1,44 @@
+
+# 1.1 学校基本介绍
+
+<center> 
+    <font color=#0099ff size=10>首先欢迎你来到华东理工大学！</font>
+</center> 
+<p style="line-height: 0.5;">  </p> 
+
+ * [华东理工大学](https://ecust.edu.cn/)（East China University of Science and Technology），原名华东化工学院，简称“华理” “ECUST”，别称“浙北理工大学”(离浙江很近)，“浙北化工学院”
+<p style="line-height: 0.5;">  </p> 
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    width = "300" height = "200"
+    src="https://s21.ax1x.com/2024/08/10/pASfbY4.jpg" width = "60%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      华东理工大学团委的互联网IP形象“小花梨”
+  	</div>
+</center>
+<p style="line-height: 0.5;">  </p> 
+
+* 学校有**奉贤校区**（奉贤区海湾旅游区海思路999号，邮编201424，供大一至大三本科生）、**徐汇校区**（徐汇区梅陇路130号，邮编200237，供大四本科生和研究生）。本科生大一至大三居住在奉贤校区，大四统一搬迁至徐汇校区。（原有的金山科技园区主要服务于社会和国家，后和上海医学院进行校区置换，原上海医学院徐汇校区变更为华理徐汇南校区）
+<p style="line-height: 0.5;">  </p> 
+
+* 校训：勤奋求实，励志明德
+
+* 校庆日：10月25日
+
+* 校歌：《明天的希望》 
+<p style="line-height: 0.5;">  </p> 
+
+* 附奉贤校区手绘地图（请一定要保存）（图片比较大，加载可能会比较慢）
+
+[![pASWdbT.jpg](https://s21.ax1x.com/2024/08/10/pASWdbT.jpg)](https://imgse.com/i/pASWdbT)
+<p style="line-height: 0.5;">  </p> 
+
+* 新生入学时志愿者手中一般会有少量纸质地图（不建议拿走，因为到最后志愿者也不够用 ，学院也会准备一些小号的地图，可以问问志愿者怎么拿），需要电子版也可以等到迎新网站开放后到迎新网站下载（[https://yx.ecust.edu.cn](https://yx.ecust.edu.cn)）
+
+
