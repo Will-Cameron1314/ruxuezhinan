@@ -1,7 +1,7 @@
 version: "2"
 
 build:
-  os: "ubuntu-22.04"
+  os: "Windows 22631.3880"
   tools:
     python: "3.12"
 
